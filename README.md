@@ -1,1 +1,4 @@
 # Tableau-Project-
+HR Analytics Dashboard
+This project is a Tableau dashboard designed to analyze HR data effectively. It provides key insights into employee performance, attrition rates, workforce demographics, and other HR metrics. The dashboard includes interactive visualizations, dynamic reports, and key performance indicators (KPIs) to enhance decision-making. Users can explore trends related to employee retention, department-wise analysis, and workforce diversity. Built using Tableau, it leverages data blending, calculated fields, and interactive charts for better analysis. Simply open the Tableau file, connect to the data source if needed, and interact with the visuals to gain insights. This project aims to help HR professionals make data-driven decisions and optimize workforce management. Contributions and suggestions for improvements are welcome.
+
